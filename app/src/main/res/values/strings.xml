@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook_Login_Api</string>
+    <string name="facebook_app_id">163223268947718</string>
+    <string name="fb_login_protocol_scheme">fb163223268947718</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
